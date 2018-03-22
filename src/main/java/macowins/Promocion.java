@@ -11,7 +11,6 @@ public class Promocion implements Estado {
 	public Float getBonificacion() {
 		return bonificacion;
 	}
-
 	public void setBonificacion(Float bonificacion) {
 		this.bonificacion = bonificacion;
 	}
